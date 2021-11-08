@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Projet site</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="css.css"/>
+</head>
+<body>
+	<header>
+            <h1>Titre</h1>
+	</header>
+	<nav>
+        <ul>
+            <li><h3>nav</h3></li>
+            <li><a href="Pages/page1.html">page1</a></li>
+            <li><a href="Pages/page2.html">page2</a></li>
+        </ul>
+	</nav>
+	<article>
+            <h2>article</h2>
+            <p>texte</p>
+    </article>
+	<footer>
+            <h3>footer</h3>
+	</footer>
+</body>
+</html>
